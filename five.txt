@@ -2,3 +2,7 @@ four
 Fivev - bug fix
 Another user six
 Six
+This is related to feature 2:
+1. a
+2. b
+3. c
